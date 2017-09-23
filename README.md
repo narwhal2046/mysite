@@ -1,1 +1,1 @@
- # first djangon site
+ # first django site
